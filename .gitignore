@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+.next/
+out/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Python / venv
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Cache
+.cache/
+.parcel-cache/
+.vite/
+
+# AI / local tool folders
+.qodo/
