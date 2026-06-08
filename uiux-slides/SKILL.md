@@ -1,6 +1,6 @@
 ---
 name: ckm:slides
-description: Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting formulas, and contextual slide strategies.
+description: Create strategic HTML presentations from scratch with Chart.js, design tokens, responsive layouts, copywriting formulas, and contextual slide strategies. Use when building new presentation decks with data visualization and persuasive structure. For applying pre-set visual themes to existing artifacts, use theme-factory instead.
 argument-hint: "[topic] [slide-count]"
 metadata:
   author: claudekit
